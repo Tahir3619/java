@@ -37,7 +37,4 @@ hpa:
   averageUtilization: 80
   maxReplicas: 4
   minReplicas: 2
-
-registry_secret:
-  registry_url: registry.gitlab.com
-  username: tahirbalayarov
+  
